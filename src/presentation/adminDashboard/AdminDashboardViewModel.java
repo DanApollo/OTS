@@ -1,7 +1,7 @@
 package presentation.adminDashboard;
 
-import model.impl.Promotion;
-import model.impl.Show;
+import model.Promotion;
+import model.Show;
 import services.UserService;
 import presentation.navigation.Navigation;
 import services.ShowManagementService;

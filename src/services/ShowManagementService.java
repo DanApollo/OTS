@@ -1,8 +1,8 @@
 package services;
 
-import model.impl.Promotion;
-import model.impl.Seat;
-import model.impl.Show;
+import model.Promotion;
+import model.Seat;
+import model.Show;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

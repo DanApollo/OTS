@@ -1,8 +1,8 @@
 package presentation.seatselector;
 
-import model.impl.Show;
+import model.Show;
 import services.UserService;
-import model.impl.Seat;
+import model.Seat;
 import presentation.navigation.Navigation;
 import services.BookingService;
 

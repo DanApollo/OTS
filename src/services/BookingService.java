@@ -1,6 +1,6 @@
 package services;
 
-import model.impl.*;
+import model.*;
 import domain.enums.SeatStatus;
 import util.SeatHoldTimer;
 

@@ -1,6 +1,6 @@
 package presentation.dashboard;
 
-import model.impl.Show;
+import model.Show;
 import services.UserService;
 import presentation.navigation.Navigation;
 import services.ShowManagementService;

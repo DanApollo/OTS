@@ -1,7 +1,7 @@
 package presentation.seatselector;
 
 import domain.enums.SeatStatus;
-import model.impl.Seat;
+import model.Seat;
 
 import javax.swing.*;
 import java.awt.*;

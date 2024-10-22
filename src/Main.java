@@ -1,5 +1,8 @@
 import domain.interfaces.IUser;
-import model.impl.*;
+import model.Admin;
+import model.Agent;
+import model.Customer;
+import model.Show;
 import presentation.adminDashboard.AdminDashboard;
 import presentation.adminDashboard.AdminDashboardViewModel;
 import presentation.agentDashboard.AgentDashboard;

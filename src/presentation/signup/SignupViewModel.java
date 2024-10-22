@@ -1,7 +1,7 @@
 package presentation.signup;
 
 import model.abstracts.User;
-import model.impl.Customer;
+import model.Customer;
 import presentation.navigation.Navigation;
 import services.UserService;
 

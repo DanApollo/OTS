@@ -2,7 +2,7 @@ package services;
 
 import domain.interfaces.IUser;
 import model.abstracts.User;
-import model.impl.Customer;
+import model.Customer;
 
 import java.util.ArrayList;
 import java.util.List;

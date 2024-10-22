@@ -1,6 +1,6 @@
 package presentation.agentDashboard;
 
-import model.impl.Customer;
+import model.Customer;
 import presentation.navigation.Navigation;
 import services.UserService;
 

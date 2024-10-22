@@ -1,6 +1,6 @@
 package presentation.adminDashboard;
 
-import model.impl.Show;
+import model.Show;
 
 import javax.swing.*;
 import java.awt.*;

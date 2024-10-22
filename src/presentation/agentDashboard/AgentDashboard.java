@@ -1,6 +1,6 @@
 package presentation.agentDashboard;
 
-import model.impl.Customer;
+import model.Customer;
 
 import javax.swing.*;
 import java.awt.*;

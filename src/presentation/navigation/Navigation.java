@@ -1,7 +1,7 @@
 package presentation.navigation;
 
 import domain.interfaces.IUser;
-import model.impl.Show;
+import model.Show;
 
 public interface Navigation {
     void navigateTo(String page);
