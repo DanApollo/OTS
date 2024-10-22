@@ -1,7 +1,6 @@
 package presentation.login;
 
 import domain.interfaces.IUser;
-import model.abstracts.User;
 import presentation.navigation.Navigation;
 import services.UserService;
 
